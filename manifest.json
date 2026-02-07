@@ -1,0 +1,11 @@
+{
+  "id": "qmd-search",
+  "name": "QMD Search",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Hybrid search engine (BM25 + vector + LLM) for your vault",
+  "author": "QMD Team",
+  "authorUrl": "https://github.com/qmd-search",
+  "fundingUrl": "https://github.com/sponsors/qmd-search",
+  "isDesktopOnly": true
+}
